@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mohammed Riane Souri
 
-### AI & Data Science Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1200&color=2563EB&center=true&vCenter=true&width=850&height=60&lines=AI+%26+Data+Science+Engineering+Student;Machine+Learning+%26+Data+Pipelines;Computer+Vision+%26+Real-Time+Detection;Generative+AI+%26+RAG+Applications" alt="AI & Data Science Engineering Student — Machine Learning, Computer Vision and Generative AI" width="100%" />
 
-**Machine Learning · Computer Vision · Generative AI**
+**AI & Data Science · From data to deployed applications**
 
 Turning data and models into working applications.
 
