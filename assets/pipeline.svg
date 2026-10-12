@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+<title id="title">Data to model to deployment</title>
+<desc id="desc">Mohammed Riane Souri's engineering workflow: prepare data, train models, evaluate results and deploy applications.</desc>
+<defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#24324b" stroke-width=".6"/></pattern><linearGradient id="accent"><stop stop-color="#14b8a6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1000" height="280" rx="16" fill="#0b1220"/><rect width="1000" height="280" rx="16" fill="url(#grid)"/>
+<g font-family="Arial, sans-serif"><text x="42" y="44" fill="#5eead4" font-size="12" letter-spacing="3">AI / DATA / ENGINEERING</text><text x="42" y="86" fill="#f1f5f9" font-size="29" font-weight="700">From raw data to working systems.</text><text x="42" y="112" fill="#94a3b8" font-size="14">Machine learning · Computer vision · Retrieval-assisted AI</text>
+<path d="M80 179H920" stroke="url(#accent)" stroke-width="2"/>
+<g fill="#111e32" stroke="#334155"><rect x="42" y="148" width="196" height="64" rx="10"/><rect x="282" y="148" width="196" height="64" rx="10"/><rect x="522" y="148" width="196" height="64" rx="10"/><rect x="762" y="148" width="196" height="64" rx="10"/></g>
+<g font-size="17" font-weight="700"><text x="62" y="176" fill="#5eead4">01 / DATA</text><text x="302" y="176" fill="#67e8f9">02 / TRAIN</text><text x="542" y="176" fill="#c4b5fd">03 / EVALUATE</text><text x="782" y="176" fill="#c4b5fd">04 / DEPLOY</text></g>
+<g font-size="12" fill="#cbd5e1"><text x="62" y="197">Prepare &amp; structure</text><text x="302" y="197">Learn &amp; predict</text><text x="542" y="197">Measure &amp; validate</text><text x="782" y="197">Serve &amp; automate</text></g><text x="42" y="250" fill="#64748b" font-size="11" letter-spacing="2">MOHAMMED RIANE SOURI · EMSI RABAT · CLASS OF 2027</text></g>
+</svg>
